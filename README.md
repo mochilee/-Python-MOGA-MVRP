@@ -40,3 +40,8 @@ f1 - 最小耗費時間
 f2 - 各載具路徑聚合度最小
 
 f3 - 各載具路徑覆蓋範圍最大
+
+Result example graph(結果範例圖)
+
+![Figure 2022-10-01 052853](https://user-images.githubusercontent.com/55568770/196163203-18763de9-5893-4e65-b0ef-fc873435bc0b.png)
+
