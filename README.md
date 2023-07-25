@@ -7,7 +7,11 @@ data.py - Matrix required for algorithm(crowding rate、Importance)
 
 imag_resize.py - Convert the map to data for use by data.py
 
-most_fast_ga_fin.py - multi-objective genetic algorithm
+algorith - multi-objective optimization algorithm
+1.Greedy Algorithm
+2.Random Search
+3.Evolutionary Strategies
+4.Genetic Algorithm
 
 
 The objective function of this issue
@@ -16,7 +20,7 @@ f1 - Minimal time consuming
 
 f2 - The minimum aggregation degree of each vehicle path
 
-f3 - Maximum coverage of each vehicle path
+f3 - People the sense of security by patrolling the maximum principal areas
 
 
 
@@ -30,16 +34,19 @@ data.py - 供應演算法所需的矩陣(擁擠率、重要度)
 
 imag_resize.py - 將地圖轉換成數據供data.py使用
 
-most_fast_ga_fin.py -多目標基因演算法本身
-
+algorith -多目標優化演算法本身
+1.貪婪演算法
+2.隨機搜尋演算法
+3.演化式策略
+4.遺傳演算法
 
 此文目標函式
 
 f1 - 最小耗費時間
 
-f2 - 各載具路徑聚合度最小
+f2 - 各載具路徑群聚之間距離最小化
 
-f3 - 各載具路徑覆蓋範圍最大
+f3 - 民眾覆蓋安全指數最大化
 
 Result example graph(結果範例圖)
 
